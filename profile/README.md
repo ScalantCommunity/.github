@@ -22,7 +22,7 @@
 
 <h2 align="center"> About us </h2>
 
-Scalent is a community for Developers,Designers and 10 + other domains. We provide you with Mentor sessions,master classes,place to collaborate.
+Scalant is a community for Developers,Designers and 10 + other domains. We provide you with Mentor sessions,master classes,place to collaborate.
 
 Much more ✨. 
  
