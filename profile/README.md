@@ -67,8 +67,8 @@
 </p>
 
 
-<h2>📌 <ins>How do I join and become a part of <a href="">SCALANT Community</a>?</ins></h2>
+<h2>📌 <ins>How do I join and become a part of <a href="https://www.scalant.in/">SCALANT Community</a>?</ins></h2>
 <p>
-    ⭐ Join us on <b><a href="https://discord.gg/hktmDREWkg">Discord</a></b> to interact with 5k+ Developers onboard! <br>
+    ⭐ Join us on <b><a href="https://discord.gg/hktmDREWkg">Discord</a></b> to interact with Us! <br>
    
 </p>
