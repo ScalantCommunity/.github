@@ -41,3 +41,22 @@
         👨🏻‍💻  Data Science <br>
     </ul>
     </p>
+    
+    
+    
+<h2>📌 <ins>What are the perks of being a part of the Community?</ins></h2>
+<p>
+    ⭐ Share your work, get advice and collaborate with a large diverse group! <br> 
+    ⭐ Meet new people outside your usual friend group.<br>
+    ⭐ Get yourself professionally developed with us by getting guidance and motivation from mentors. <br> 
+    ⭐ Get various study materials and  projects. <br> 
+    ⭐ Organize events and talks, share your voice and opinions, and in turn develop your personality and improve your soft speaking skills! <br>
+    ⭐ Discuss, collaborate and share your work with others.
+<br> 
+    <h3>🔥 <ins>EXCLUSIVE PERKS:</ins></h3>
+    🚀 <b><ins>CAREER GROWTH</ins></b> <br>
+    🚀 <b><ins>GLOBAL UPDATES</ins></b> <br>
+    🚀 <b><ins>STUDY GROUPS</ins></b> <br>
+    🚀 <b><ins>SWAGS & GOODIES</ins></b> <br>
+    🚀 <b><ins>24/7 ACTIVE CHAT</ins></b> <br>
+</p>
