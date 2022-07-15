@@ -23,4 +23,21 @@
         ✨ Various mentorship sessions. <br> 
         ✨ Learners from various parts of the country. <br> 
         ✨ Working professionals. <br>
-        ✨ Recruiters looking for interns or junior/senior developers. <br>
+         </ul>
+    ⭐ Domains of Interest:
+    <ul>       
+        &nbsp;📱 &nbsp;App Development <br> 
+        🖥️ Web Development <br> 
+        🎨 UI/UX Development <br> 
+        🎮 Game Development <br> 
+        ☁  Cloud Development <br> 
+        🧠 Machine Learning and AI <br> 
+        🔗 Blockchain/Crypto <br> 
+        🤖 IoT/Embedded <br> 
+        📉 Graphic Designing <br>
+        🌐 Open source <br>
+        🖼  3D Designing <br>
+        😺 Git and Github <br>
+        👨🏻‍💻  Data Science <br>
+    </ul>
+    </p>
