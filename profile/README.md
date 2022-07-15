@@ -60,3 +60,9 @@
     🚀 <b><ins>SWAGS & GOODIES</ins></b> <br>
     🚀 <b><ins>24/7 ACTIVE CHAT</ins></b> <br>
 </p>
+
+<h2>📌 <ins>Do I have to pay something for being a part of this Community?</ins></h2>
+<p>
+    ⭐ No, you don't need to pay anything to join our community. Our community is absolutely a free community , we welcome you all to join us and just be an active part of the community.🥳🥳
+</p>
+
