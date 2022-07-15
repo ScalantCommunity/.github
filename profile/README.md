@@ -5,3 +5,10 @@
 🎉 Welcome to SCALANT Community 🎉
 </h3>
 
+
+<h2>📌 <ins>About Us</ins></h2>
+<p>
+    ⭐ We are an <b>open source community</b> dedicated for development across India. <br>
+    ⭐ The main motive of our community is to scale up your skills <br>
+    ⭐We are community covering 10+ tech domains. <b><a href=" https://discord.gg/hktmDREWkg">Discord</a></b> as our primary platform for interaction! <br>
+</p>
