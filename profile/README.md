@@ -72,3 +72,17 @@
     ⭐ Join us on <b><a href="https://discord.gg/hktmDREWkg">Discord</a></b> to interact with Us! <br>
    
 </p>
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<div align="center">
+    
+<h2 align="center"> 🔗 Connect with Us </h2>
+    
+[<img alt="SCALANT | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:scalantofficial@gmail.com)
+    [<img alt="SCLANT| LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/scalant-official/mycompany/?viewAsMember=true)
+    [<img alt="SCALANT| Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://instagram.com/scalantofficial?igshid=YmMyMTA2M2Y=)
+    [<img alt="SCALANT | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/Scalantofficial)
+    
+</div>
