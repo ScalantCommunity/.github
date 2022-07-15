@@ -10,7 +10,7 @@
 <p>
     ⭐ We are an <b>open source community</b> dedicated for development across India. <br>
     ⭐ The main motive of our community is to <b>scale up your skills.</b> <br>
-    ⭐We are community covering 10+ tech domains. <b><a href=" https://discord.gg/hktmDREWkg">Discord</a></b> as our primary platform for interaction! <br>
+    ⭐We are community covering 10+ tech domains. <b><a href="https://discord.gg/hktmDREWkg">Discord</a></b> as our primary platform for interaction! <br>
 </p>
 
 
@@ -66,3 +66,9 @@
     ⭐ No, you don't need to pay anything to join our community. Our community is absolutely a free community , we welcome you all to join us and just be an active part of the community.🥳🥳
 </p>
 
+
+<h2>📌 <ins>How do I join and become a part of <a href="">SCALANT Community</a>?</ins></h2>
+<p>
+    ⭐ Join us on <b><a href="https://discord.gg/hktmDREWkg">Discord</a></b> to interact with 5k+ Developers onboard! <br>
+   
+</p>
