@@ -108,3 +108,14 @@ A commit message is used for quickly summarizing a change. Another contributor s
 - It uses too many words and could be simplified
 
 
+## Making a Pull Request
+
+Here are a series of GIFs that illustrate how to make and commit a change, and create a pull request for review, using GitHub's web interface.
+
+-  Click On The Name Of File You Want To Edit
+  ![Navigate to the file to edit](https://user-images.githubusercontent.com/97145602/179370349-1b2ce644-c782-4dce-aad2-818b85afe022.jpg)
+ 
+-  Make Your Edits
+  ![Edit file](https://user-images.githubusercontent.com/97145602/179370437-6cfb9bb4-ced5-48c7-bb46-42ac78392506.jpg)
+
+
